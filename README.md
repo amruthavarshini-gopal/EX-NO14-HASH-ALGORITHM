@@ -10,7 +10,7 @@ To implement HASH ALGORITHM.
 
 2. Initialization:
 
-   - Choose a hash function \( H \) (e.g., SHA-256, MD5, etc.).
+   - Choose a hash function \( H \) (e.g., SHA-256, MD5, etc.)
 
    - The message \( M \) to be hashed is input.
 
